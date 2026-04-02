@@ -26,7 +26,7 @@ Email Me 👉 ✉️ **oliver.a.kendell@gmail.com** With any inquiries . 😊�
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=oliverKendell&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=OliverKendell&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=OliverKendell&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OliverKendell&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
