@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **oliver.a.kendell@gmail.com** With any inquiries . 😊😊
 
 - 🏗️ **I’m currently working on:** Basic Network Analysis
-- 📔 **I aim to complete my Security+ by:** 2027
+- 📔 **I will to complete my Security+ by:** 2027
 - 🖥️ **Working through Tryhackme Labs**
 
 
