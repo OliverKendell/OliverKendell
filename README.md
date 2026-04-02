@@ -1,16 +1,13 @@
-## Hi there 👋
+# 💫 Hi 👋, I'm Oliver Kendell
+**A passionate Cybersecurity student || Incident Response & Threat Hunting || Currently in the UK**
 
-<!--
-**OliverKendell/OliverKendell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Email Me 👉 ✉️ **oliver.a.kendell@gmail.com** With any inquiries . 😊😊
 
-Here are some ideas to get you started:
+- 🏗️ **I’m currently working on:** Basic Network Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚧 Currently building my portfolio 🚧
+
+
+
+
