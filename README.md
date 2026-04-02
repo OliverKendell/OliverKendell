@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **oliver.a.kendell@gmail.com** With any inquiries . 😊�
 
 ## 🚧 Currently building my portfolio 🚧
 
-##💻 Tech Stack
+## 💻 Tech Stack
 
 <!-- Snake Game Repo View -->
 
