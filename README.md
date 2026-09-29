@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **oliver.a.kendell@gmail.com** With any inquiries . 😊�
 
 
 ## 🚧 Currently building my portfolio 🚧
-- [Learning Java, Exam In January](https://github.com/OliverKendell/Learning-Java)
+- [Learning Java, Exam In January 2027](https://github.com/OliverKendell/Learning-Java)
 - [Home Lab](https://github.com/OliverKendell/Home-Lab)
 - [Basic Network Analysis](https://github.com/OliverKendell/Basic-Network-Analysis)
 - [TrashPal](https://github.com/OliverKendell/Trashpal)
